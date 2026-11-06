@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=for-the-badge&logo=figma&logoColor=black" alt="UX Designer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Starter%20Backend%20Developer-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" alt="Starter Backend Developer" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Developer" />
   <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Developer" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,6 +27,9 @@
   <a href="#about-me">
     <img src="https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
   </a> 
+  <a href="#career-focus">
+    <img src="https://img.shields.io/badge/Career%20Focus-33A852?style=for-the-badge&logo=target&logoColor=white" alt="Career Focus"/>
+  </a>
   <a href="#tools--tech-stack">
     <img src="https://img.shields.io/badge/Tools%20%26%20Tech%20Stack-3357FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tools & Tech Stack"/>
   </a>
@@ -35,6 +38,9 @@
   </a>
   <a href="#2025-second-year-portfolio-repos">
     <img src="https://img.shields.io/badge/2025%20Portfolio-FF33A6?style=for-the-badge&logo=github&logoColor=white" alt="2025 Portfolio"/>
+  </a>
+  <a href="#my-stats">
+    <img src="https://img.shields.io/badge/My%20Stats-FF8C33?style=for-the-badge&logo=github&logoColor=white" alt="My Stats"/>
   </a>
   <a href="#get-in-touch">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-8C33FF?style=for-the-badge&logo=contactless&logoColor=white" alt="Get in Touch"/>
@@ -67,6 +73,35 @@ I design by a principle I call **symbiotic design**: when a product genuinely ma
 
 
 
+
+# Career Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 UX / UI Design</h3>
+      My main focus. User research, wireframing, prototyping and polished, accessible interfaces in Figma, designed so both the user and the business win.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Front-end Development</h3>
+      Bringing my designs to life in React and React Native, so they work just as well in the browser and on mobile as they did in Figma.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-powered Features</h3>
+      Building useful AI into products, like Socratic maths hints in Tower of Arithmetic and an aquarium-care assistant in Aquastainable.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Back-end & Data</h3>
+      Growing skills in Node.js, Express, .NET, Supabase and Firebase: APIs, authentication and databases that support the front-end.
+    </td>
+  </tr>
+</table>
+
+- - - -
+
+<br />
 
 # Tools & Tech Stack
 
@@ -116,6 +151,9 @@ I design by a principle I call **symbiotic design**: when a product genuinely ma
 <br />
 
 #  2026 (Third year) Portfolio Repos 
+
+> ⭐ **My three main DV300 portfolio projects.**
+
 ## [Tower of Arithmetic](https://github.com/andrevanheerden-061104/Tower-of-Arithmetic) (Capstone)
 
 [![Tower of Arithmetic](./assets/towerOfArithmeticHeader.png)](https://github.com/andrevanheerden-061104/Tower-of-Arithmetic)
@@ -255,16 +293,31 @@ I created Yggdrasil out of a desire to simplify the D&D experience. Unlike exist
 
 <br />
 
-# Get in Touch
+# My Stats
 
-<div align="center">
-
-<p>
-  <a href="mailto:241155@virtualwindow.co.za">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/>
-  </a><br/>
-  <b>Email</b><br/>
-  241155@virtualwindow.co.za
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%" />
 </p>
 
-</div>
+- - - -
+
+<br />
+
+# Get in Touch
+
+<p align="center">
+  <a href="mailto:andre.jjvanheerden@gmail.com"><img src="https://img.shields.io/badge/Email-andre.jjvanheerden%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/andre-vanheerden-8692853b5"><img src="https://img.shields.io/badge/LinkedIn-Andre%20van%20Heerden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/andrevanheerden_1155"><img src="https://img.shields.io/badge/Behance-UX%20case%20studies-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://andrevanheerden-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-andrevanheerden--portfolio.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><sub>Student email: 241155@virtualwindow.co.za</sub></p>
