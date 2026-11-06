@@ -27,19 +27,16 @@
   <a href="#about-me">
     <img src="https://img.shields.io/badge/About%20Me-FF5733?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
   </a> 
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-33FF57?style=for-the-badge&logo=skills&logoColor=white" alt="Skills"/>
+  <a href="#tools--tech-stack">
+    <img src="https://img.shields.io/badge/Tools%20%26%20Tech%20Stack-3357FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tools & Tech Stack"/>
   </a>
-  <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-3357FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/>
+  <a href="#2026-third-year-portfolio-repos">
+    <img src="https://img.shields.io/badge/2026%20Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="2026 Portfolio"/>
   </a>
   <a href="#2025-second-year-portfolio-repos">
-    <img src="https://img.shields.io/badge/Portfolio-FF33A6?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/2025%20Portfolio-FF33A6?style=for-the-badge&logo=github&logoColor=white" alt="2025 Portfolio"/>
   </a>
-  <a href="#my-stats">
-    <img src="https://img.shields.io/badge/My%20Stats-FF8C33?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="My Stats"/>
-  </a>
-  <a href="#✦-get-in-touch-✦">
+  <a href="#get-in-touch">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-8C33FF?style=for-the-badge&logo=contactless&logoColor=white" alt="Get in Touch"/>
   </a>
 </p>
@@ -50,62 +47,19 @@
 <br />
 
 
-# About me 
-```jsx
-import { sushi as favFood } from "@andre/likes";
+# About me
 
-const NAME = "Andre van Heerden";
-const STUDENT_NUM = 241155;
-const AGE = 21;
-const BIRTHDAY = "November 6";
-const NATIONALITY = "South African";
-const STUDIES = {
-  uxDesign: "Second Year UX",
-  development: "Second Year DV",
-};
+Hi, I'm **Andre van Heerden** 👋, a UX/UI designer and front-end developer from Pretoria, South Africa, in my **third and final year** at Open Window, studying User Experience Design and Interactive Development.
 
-let hobbies = {
-  reading: ["Books", "Web Novels", "Manga", "Manhwa", "Manhua"],
-  favoriteGenres: ["Dark Fantasy", "Reincarnation"],
-  watching: ["Anime"],
-  nature: ["Fishing (Fly Fishing & Deep Sea Fishing)", "Hunting", "Shooting"],
-  art: ["Drawing", "Pen Sketches"],
-};
+I'm passionate about user experience and, above all, **UI design**, and I love bringing my designs to life as a front-end developer, building interfaces that look good and work just as well in the browser as they did in Figma.
 
-let dreamJob = ["Frontend Developer", "UX Designer"];
+I design by a principle I call **symbiotic design**: when a product genuinely makes life easier for the people using it, they keep coming back, and that's what makes it work for the business too. No dark patterns, no tricks.
 
-export async function codingSession() {
-  let enjoyFrontend = true;
-  let designMood = "active";
-
-  while (enjoyFrontend) {
-    design("beautiful interfaces");
-    code("interactive experiences");
-    if (bugAppears()) {
-      console.log("One more tweak…");
-      fixBug();
-    }
-  }
-}
-
-function favThings() {
-  return {
-    food: favFood,
-    hobbies,
-    dreamJob,
-  };
-}
-
-let changelog = [
-  "Discovered sushi as peak cuisine 🍣",
-  "Fell deeper into dark fantasy worlds 📚",
-  "Improving frontend flow & UX every day 💻",
-  "Still chasing the perfect UI design ✨",
-];
-
-```
-
-
+- 🎓 **Studying:** BA in UX Design & Interactive Development, Open Window (final year)
+- 💼 **Experience:** 6-month UX/AI generalist internship at Sand Dollar Design (2026)
+- 🏆 **Achievement:** 2nd place, ABSA Hackathon 2026 (Gauteng universities)
+- 🎯 **Dream job:** UX/UI Designer or Front-end Developer
+- 🎮 **Outside of work:** gaming, anime, manga and dark-fantasy novels, which is where projects like a maths RPG come from. I also enjoy fly and deep-sea fishing and pen sketching.
 
 - - - -
 
@@ -114,111 +68,120 @@ let changelog = [
 
 
 
-# Skills 
+# Tools & Tech Stack
 
-<table align="center">
-  <tr>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>UX Design</strong><br /><br />
-        <span style="color: #666;">Strong 8/10</span><br /><br />
-        <img src="https://geps.dev/progress/80" alt="UX Design 8/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>UI Design</strong><br /><br />
-        <span style="color: #666;">Strong 8/10</span><br /><br />
-        <img src="https://geps.dev/progress/80" alt="UI Design 8/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Frontend Development</strong><br /><br />
-        <span style="color: #666;">Strong 7/10</span><br /><br />
-        <img src="https://geps.dev/progress/70" alt="Frontend Development 7/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Backend Development</strong><br /><br />
-        <span style="color: #666;">Improving 6/10</span><br /><br />
-        <img src="https://geps.dev/progress/60" alt="Backend Development 6/10" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Database Development</strong><br /><br />
-        <span style="color: #666;">Improving 6/10</span><br /><br />
-        <img src="https://geps.dev/progress/60" alt="Database Development 6/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Deployment</strong><br /><br />
-        <span style="color: #666;">Needs a lot of improvement 4/10</span><br /><br />
-        <img src="https://geps.dev/progress/40" alt="Deployment 4/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Bug Fixing</strong><br /><br />
-        <span style="color: #666;">Needs improvement 5/10</span><br /><br />
-        <img src="https://geps.dev/progress/50" alt="Bug Fixing 5/10" />
-      </div>
-    </td>
-    <td>
-      <div style="width: 250px; height: 150px;">
-        <strong>Presentations</strong><br /><br />
-        <span style="color: #666;">Needs a lot of improvement 4/10</span><br /><br />
-        <img src="https://geps.dev/progress/40" alt="Connecting Code 4/10" />
-      </div>
-    </td>
-  </tr>
-</table>
+## Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX%20Research-8B5CF6?style=for-the-badge&logo=googleforms&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6D28D9?style=for-the-badge&logo=figma&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-0EA5E9?style=for-the-badge&logo=accessibility&logoColor=white)
+![Service Design](https://img.shields.io/badge/Service%20Design-14B8A6?style=for-the-badge&logo=miro&logoColor=white)
 
-<p align="center">
-*Rating out of 10 is on a second-year level*
-</p>
-
-
-
-- - - -
-
-<br />
-
-# Tech Stack 
-
-## Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## Styling
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Databases & Data Management
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## Tools & Libraries
-
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+## Back-end
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+## AI, Tools & Deployment
+![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+- - - -
+
+<br />
+
+#  2026 (Third year) Portfolio Repos 
+## [Tower of Arithmetic](https://github.com/andrevanheerden-061104/Tower-of-Arithmetic) (Capstone)
+
+[![Tower of Arithmetic](./assets/towerOfArithmeticHeader.png)](https://github.com/andrevanheerden-061104/Tower-of-Arithmetic)
+
+Tower of Arithmetic is a turn-based fantasy RPG for Grades 1–11 where every action in the tower is powered by solving a maths problem. Learners climb a procedurally generated tower, casting spells, opening puzzle doors and fighting bosses, and every spell is an equation they type, say or draw.
+
+It was built to tackle maths anxiety: there are no countdown timers, and a wrong answer gives a Socratic AI hint instead of a penalty. Questions are AI-generated and aligned to the South African CAPS curriculum, so runs never repeat, and three grade modes, a dyscalculia mode and read-aloud make it accessible to every learner. I designed the full UX in Figma and built and deployed the app myself.
+
+#### **Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden-061104/Tower-of-Arithmetic)
+
+- - - -
+
+
+## [Aquastainable](https://github.com/andrevanheerden/Aquastainable)
+
+[![Aquastainable](./assets/aquastainableHeader.png)](https://github.com/andrevanheerden/Aquastainable)
+
+Aquastainable is a mobile freshwater aquarium-care app that gives fishkeepers one place to manage their tanks, record water tests, and track their fish and plants. Users can swipe between their tanks on a dashboard, add fish from a species catalogue and get a compatibility check before adding them, covering tank size, stocking, water conditions, temperament and school size.
+
+An aquarium-focused AI assistant helps when something goes wrong: users can send a sick fish or water problem to the assistant with their tank's context, and the app uses AI to write tank overviews and fill in missing species care information.
+
+#### **Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Groq AI](https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/Aquastainable)
+
+- - - -
+
+
+## [Artifax](https://github.com/andrevanheerden-061104/Artifax) (Group project)
+
+[![Artifax](./assets/artifaxHeader.png)](https://github.com/andrevanheerden-061104/Artifax)
+
+Artifax is a simple, highly reliable inventory management system for tracking internal warehouse operations. It manages inventory quantities across multiple warehouse locations, tracks base materials and the items crafted from them, schedules production timelines through a crafting queue, and uses role-based access control so admins and staff only see what they need.
+
+The app runs as a desktop application with a React front-end and a scalable .NET back-end, with analytics dashboards and low-stock alerts to keep the warehouse running smoothly. It was built as a team, with automated testing on both the front-end and back-end.
+
+#### **Technologies Used:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+[![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden-061104/Artifax)
 
 - - - -
 
@@ -287,28 +250,6 @@ I created Yggdrasil out of a desire to simplify the D&D experience. Unlike exist
 [![View Deployed Website](https://img.shields.io/badge/View%20Deployed%20Website-00B746?style=for-the-badge&logo=globe&logoColor=white)](https://andredv.xyz/)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-5F33FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrevanheerden/Yggdrasil)
-
-- - - -
-
-<br />
-
-#  My Stats 
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=andrevanheerden&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
-    alt="Andre's GitHub Stats" 
-    height="200"
-    width="43%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=andrevanheerden&show_icons=true&locale=en&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=9D4EDD&text_color=CBB8FF&icon_color=9D4EDD" 
-    alt="Top Languages" 
-    height="200"
-    width="38.5%"
-  />
-</p>
 
 - - - -
 
