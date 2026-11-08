@@ -302,15 +302,15 @@ I created Yggdrasil out of a desire to simplify the D&D experience. Unlike exist
 # My Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrevanheerden-061104&theme=github_dark" alt="Profile details" width="100%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrevanheerden-061104&theme=github_dark" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrevanheerden-061104&theme=github_dark" alt="Most commit language" width="49%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrevanheerden-061104&theme=github_dark" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrevanheerden-061104&theme=github_dark&utcOffset=2" alt="Productive time" width="49%" />
 </p>
 
 - - - -
