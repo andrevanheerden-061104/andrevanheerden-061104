@@ -14,6 +14,13 @@
   <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
 </p>
 
+
+<p align="center">
+  <a href="https://andrevanheerden-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%86%92%20%20View%20my%20portfolio%20website%20%20%E2%86%90-andrevanheerden--portfolio.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033" alt="View my portfolio website" height="56" />
+  </a>
+</p>
+
 - - - -
 
 <br />
