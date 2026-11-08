@@ -1,6 +1,12 @@
 ![banner](./assets/header.png)
 
 <p align="center">
+  <a href="https://andrevanheerden-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%86%92%20%20View%20my%20portfolio%20website%20%20%E2%86%90-andrevanheerden--portfolio.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033" alt="View my portfolio website" height="56" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/UX%20Designer-FFD700?style=for-the-badge&logo=figma&logoColor=black" alt="UX Designer" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/Backend%20Developer-00BFFF?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Developer" />
@@ -12,13 +18,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Databases" />
   <img src="https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" />
-</p>
-
-
-<p align="center">
-  <a href="https://andrevanheerden-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/%E2%86%92%20%20View%20my%20portfolio%20website%20%20%E2%86%90-andrevanheerden--portfolio.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033" alt="View my portfolio website" height="56" />
-  </a>
 </p>
 
 - - - -
